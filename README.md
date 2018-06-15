@@ -1,6 +1,6 @@
 # Express-Guestbook
 
-A guestbook app implementation (discussed in the book Express in Action)
+A guestbook app implementation (discussed in the book Express in Action - Evan M. Hahn)
 
 Uses:
 Express and,
